@@ -4,7 +4,7 @@ This Webpage was created with the intent to showcase my projects and to work as 
 
 ## Description
 
-This Webpage has been made to work with variety of websites including Mobile devices, Desktops and Tablets. It features @mediaquery and other optimizing techniques to make it responsive in wide use cases.
+This Webpage has been made to work with variety of devices including Mobiles, Desktops and Tablets. It features @mediaquery and other optimizing techniques to make it responsive in wide use cases.
 
 ## Technologies Used
 
@@ -34,4 +34,4 @@ cd Portfolio-S
 
 ## Contact
 
-email: saravana28101@gmail.com
+Email: saravana28101@gmail.com
